@@ -1,3 +1,0 @@
-﻿  BMK.cpp
-C:\Users\Jwen\source\repos\BMK\BMK\BMK.cpp(225): warning C4715: 'delete_node': not all control paths return a value
-  BMK.vcxproj -> C:\Users\Jwen\source\repos\BMK\Debug\BMK.exe
